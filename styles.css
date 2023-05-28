@@ -90,7 +90,7 @@ footer a {
 	transform: translateY(30px);
 	opacity: 0;
 	visibility: hidden;
-	animation: fade-in 40s linear forwards;
+	animation: fade-in 5s linear forwards;
 }
 .notification__progress {
 	position: absolute;
